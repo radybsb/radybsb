@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning and practicing as much as I can 🏃
 - 👯 I’m looking to collaborate with other developers.
-- 🎯 2025 Goals: Learn as much as I can.
+- 🎯 2026 Goals: Learn as much as I can. Dive into AI agents.
 - 👀 Fun fact: I love to understand how things work! That's why I'm always looking for new knowledge.
 
 ### Connect with me:
